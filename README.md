@@ -1,0 +1,1 @@
+This repository serves as Protea Consulting’s showcase and communication hub for AI‑centric software development on the Microsoft stack. It demonstrates our approach to modern .NET architecture, agent‑assisted development workflows, and rapid prototyping practices used to deliver high‑quality solutions for enterprise clients.  see http:/proteaconsulting.com 
